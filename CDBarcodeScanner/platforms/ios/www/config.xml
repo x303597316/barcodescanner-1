@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="it.sella.CDBarcodeScanner" version="1.0.0">
+    <name>CDBarcodeScanner</name>
+    <description>Cordova Application</description>
+    <author email="dips.dipinkumar@gmail.com" href="http://www.dipinkumar.com</author>
+    <access origin="*"/>
+    <preference name="fullscreen" value="true"/>
+    <preference name="webviewbounce" value="true"/>
+</widget>
